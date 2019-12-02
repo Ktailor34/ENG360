@@ -1,0 +1,38 @@
+Assignment: Challenge 08 
+Name: Ravi Patel
+
+Fit Your Fit
+
+Hours Worked:
+11 hours
+
+Time Log:
+3/15/19 7:00pm - 9:00pm  2hrs | Watched videos on HTML and CSS. Made a prototype website to learn more about HTML and CSS.
+3/16/19 7:00pm - 8:00pm  1hr  | Created initial website layout and storyboarding
+3/25/19 8:00am - 11:00am 3hrs | In lab informed Josh about the progress on the website. We talked about what we would like to add and how we would want the website to look. Added a few pages to the website.
+3/26/19 8:00pm - 10:00pm 2hrs | All team members met up and split up the work between members. I worked to improve the different pages we had added.
+3/28/19 7:00pm - 10:00pm 3hrs | I cleaned up the website by making sure the images on the site looked good. Fixed all the links to the home page from the other pages. Created a login page for the user.
+3/30/19 5:00pm - 10:00pm 5hrs | Downloaded all required files and programs to host the website on heroku.
+4/01/19 9:00am - 11:00am 2hrs | Performed additional tests on the heroku server to fix any broken links.
+4/15/19 9:00am - 11:00am 2hrs | Fixed some of the links and layout of the login Page.
+4/22/19 8:00am - 11:00am 3hrs | Made the Sign up page
+4/24/19 4:00pm -  7:00pm 3hrs | Modified the python code to display users name after logging in and cleaned up the appearance of the website.
+4/24/19 8:00pm - 12:00am 4hrs | Added finishing touches to the website
+
+Git Repository:
+https://github.com/rpatel64/Final_Project.git
+
+Rubric:
+15pts | Website Home Page
+5pts  | Website Upper Body, Lower Body, Cardio Pages
+20pts | Website Login Page
+
+Short Report:
+I thought this challenge went well as a whole; however, I was unsure on somethings.
+First, I like how the challenge prepares us for what we will have to turn in for
+the final report. I also like that is kind of forces us to meet up and work on the
+project and not procrastinate. I really did not understand how the rubric worked.
+I knew we had to make it out of 40 points however I did not know if we had to make
+a rubric for stuff we still have to accomplish. Additionally, I was glad we got to 
+work on the project during lab time. I got a chance to ask the TA's for help and 
+they gave me tips on what software to use for our project.

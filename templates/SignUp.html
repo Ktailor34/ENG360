@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Logged In</title> 
+        <link href="static/SignUp.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+    </head>
+
+<body>
+    <div class="signup">
+        <form method="POST">
+            <h2 style="color: #fff;">Sign Up</h2>
+            <input style="color: white" type="text" name="firstname" placeholder="First name">
+            <br><br>
+            <input style="color: white" type="text" name="lastname" placeholder="Last name">
+            <br><br>
+            <input style="color: white" type="password" name="password" placeholder="Password">
+            <br><br>
+            <input style="color: white" type="password" name="confirm" placeholder="Confirm Password">
+            <br><br>
+            <input style="color: white" type="text" name="email" placeholder="Email Address">
+            <br><br>
+            <a href="Login.html"><input type="submit" value="Sign up"></a>
+            <br><br>
+        </form>
+	{% if error %}
+	<p class ="error"><strong>Error:</strong> {{ error }}</p>
+	{% endif %}
+    </div>
+
+</body>
+    
+</html>

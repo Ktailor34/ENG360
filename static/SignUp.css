@@ -1,0 +1,81 @@
+body
+{
+    background: url(LoginBackground.jpg);
+    background-size: 110%;
+}
+
+.signup
+{
+    background: rgba(18, 25, 32, 0.7);
+    padding: 40px;
+    width: 250px;
+    margin: auto;
+    height: 430px;
+    margin-top: 80px;
+    margin-left: 180px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+form
+{
+    width: 240px;
+    text-align: center;
+}
+input[type=text]
+{
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: aliceblue;
+}
+input[type=password]
+{
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff;
+}
+
+input[type=submit]
+{
+    border: none;
+    width: 190px;
+    background: white;
+    color: #000;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+input[type=submit]:hover
+{
+    color: #fff;
+    background-color: black;
+}
+
+::placeholder
+{
+    color: aliceblue;
+}
+
+p
+{
+    color: white;
+}

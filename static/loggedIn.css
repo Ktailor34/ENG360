@@ -1,0 +1,27 @@
+body
+{
+    background: url(LoginBackground.jpg);
+    background-size: cover;
+}
+
+a
+{
+    color: orange;
+    font-family:Tahoma, Geneva, sans-serif;
+    margin-left: 80px;
+}
+.loggedIn
+{
+    background: rgba(18, 25, 32, 0.7);
+    padding: 40px;
+    height: 200px;
+    margin-left: 180px;
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 240px;
+}
+h2
+{
+    margin-top: 50px;
+    margin-left: 40px;
+}

@@ -1,0 +1,38 @@
+Assignment: Challenge 08 
+Name: Kishan Tailor
+
+Project Name: Fit Your Fit
+
+Hours Worked:
+8 hours
+
+Time Log:
+3/6/19 6pm - 7pm all team members //initial meeting, create proposal 
+3/16/19 7pm - 8pm Ravi, Kishan //Created initial website layout, storyboarding
+3/26/19 8pm - 10pm all team members //Specifically split work between members
+3/28/19 10pm-12pm Kishan //Downloaded, set up, learned how to use SQL Server
+3/29/19 10am-12pm Kishan //Set Up Server watched more youtube videos on how to implement database using SQL
+
+Git Repository:
+https://github.com/rpatel64/Final_Project.git
+
+Rubric:
+15pts | Setting Up Server
+5pts  | Deciding between Python and Flask or PHP and other connecting software
+20pts | Researching Python, Understanding Python, Understand SQL
+
+Compilable Task: You can see my server setup and I can explain what I have learned about it so far and see my notes.
+
+Short Report:
+This challenge went well and personally, I did not run in to too many issues. Many of my problems came setting up the server as it was not
+as straightforward as I would have liked. However I still had fun, and enjoyed learning something completely foreign to me. The problems I
+can see for the future is that there is still a lot to learn. Flask is going to prove to be an issue and creating the backend in python is
+going to be another obstacle to overcome. I look forward to it but I dont think I can finish all this in one week, but they are longterm
+goals.
+
+Future Week Goals:
+Continue to learn SQL
+Set up the SQL Server with some mock data
+Create backend in Python3
+Learn Flask
+Eventually link the username and password page to server and start storing account data

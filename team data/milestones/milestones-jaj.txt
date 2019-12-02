@@ -1,0 +1,37 @@
+Rubric for Final Project | Jarod Jelinek
+
+Fit Your Fit: Fitness Web Application
+
+Github Repository: https://github.com/rpatel64/Final_Project.git
+
+Videos Used:
+  Python - https://www.youtube.com/watch?v=kkQlyDMa-h0
+  SQL - https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=share
+
++ 10 points | Group Meeting
++ 10 points | Studied Python
++ 20 points | Studied SQL
+
+Time Log:
+  3/6/19 6pm - 7pm all team members //initial meeting, create proposal 
+  3/24/19 6pm - 7pm Jarod //researched html workings
+  3/26/19 8pm - 10pm all team members //Specifically split work between members
+  3/26/19 10pm - 10:30pm Jarod // watched python video & took notes
+  3/27/19 5:30pm - 7:00pm Jarod // watched portion of SQL video & took notes
+  
+  Total Hours: 6.5 hours
+  
+Short Report:
+  This week I dedicated my time to learning the different languages
+  we are going to be using. I enjoyed learning the things about 
+  different coding languages so I enjoyed this challenge. I am
+  unsure about the compilable task though as I haven't learned
+  enough SQL to submit anything benefitial to the project yet.
+  I found that Python was simple to learn as it seems to be a
+  more coder-friendly version of C++. SQL is a bit tougher though
+  and I am having to dedicate much more time to learning it. My
+  rubric is sort of lackluster because I came into the challenge
+  with little to no knowledge of either Python or SQL so I decided
+  to base the rubric off the learning of each language as well as
+  group meetings.
+  

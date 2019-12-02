@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Login</title>
+    <link href="../static/Login.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+    </head>
+<body>
+    <div class="signin">
+        <form action="/Login.html" method="GET">
+            <h2 style="color: white">Log In</h2>
+            <input type="text" name="username" placeholder="Email" id="username" value={{request.form.username}}> 
+            <input type="password" name="password" placeholder="Password" id = "password" value={{request.form.password}}><br><br>
+            <a href="../Login.html"><input type="submit" value="Log In"></a><br>
+            <br>
+            <div id="container">
+            <a href="#" style="margin-right:0px; font-size:13px; font-family:Tahoma, Geneva, sans-serif;">Forgot password</a>
+            </div><br><br><br><br><br><br>
+            Don't have account?<a href="/SignUp.html">&nbsp;Sign Up</a>
+        </form>
+	{% if error %}
+        <p class ="error"><strong>Error:</strong> {{ error }}</p>
+        {% endif %}	
+    </div>
+</body>
+
+
+</html>

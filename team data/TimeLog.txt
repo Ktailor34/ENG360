@@ -1,0 +1,62 @@
+------------------------------------------------------------------------------------------------------------------
+Active Log in Hours:
+
+Kishan  29
+Ravi  30
+Josh  20
+Jarod 20.5
+
+------------------------------------------------------------------------------------------------------------------
+TEAM MEETING LOG:
+
+3/06/19 6:00pm - 7:00pm - all present
+- Brainstormed the idea & goals of the project and wrote the proposal.
+
+03/26/19 8:00pm-10:00pm - all present
+- Assigned roles
+  * Josh & Ravi assigned to the front end
+  * Kishan & Jarod assigned to the back end
+
+04/24/19 8:00pm-12:00am - all present
+- Finishing touches
+  * Ravi - finished work on the css files
+  * Josh - added finishing touches to the excercise pages
+  * Jarod - cleaned the github, completed the hosting on heroku, & wrote code to check for valid emails.
+  * Kishan - wrote the hash function & completed finishing touches on python code.
+
+------------------------------------------------------------------------------------------------------------------
+TIMELOG:
+
+3/06/19  6:00pm -  7:00pm 1.0 hr   all team members // initial meeting, create proposal 
+3/15/19  7:00pm -  9:00pm 2.0 hrs  Ravi // Watched videos on HTML and CSS. Made a prototype website to learn more about HTML and CSS.
+3/15/19  8:00pm - 10:00pm 2.0 hrs  Josh // Learning HTML code
+3/16/19  7:00pm -  8:00pm 1.0 hr   Ravi, Kishan //Created initial website layout, storyboarding
+3/24/19  6:00pm -  7:00pm 1.0 hr   Jarod //researched html workings
+3/25/19  8:00am - 11:00am 3.0 hrs  Ravi and Josh // In lab informed Josh about the progress on the website. We talked about what we would like to add and how we would want the website to look. Added a few pages to the website.
+3/25/19  9:00am - 10:00am 1.0 hr   Josh //Added links to different pages for workouts
+3/26/19  8:00pm - 10:00pm 2.0 hrs  all team members //Specifically split work between members
+3/26/19 10:00pm - 10:30pm 0.5 hrs  Jarod // learned python basics
+3/27/19  5:30pm -  6:30pm 1.0 hr   Jarod // watched portion of video on SQL basics
+3/28/19  7:00pm - 10:00pm 3.0 hrs  Ravi // I cleaned up the website by making sure the images on the site looked good. Fixed all the links to the home page from the other pages. Created a login page for the user.
+3/28/19 10:00pm - 12:00pm 2.0 hrs  Kishan //Downloaded, set up, learned how to use SQL Server
+3/30/19  5:00pm - 10:00pm 5.0 hrs  Ravi // Downloaded all required files and programs to host the website on heroku.
+4/01/19  9:00am - 11:00am 2.0 hrs  Ravi // Performed additional tests on the heroku server to fix any broken links.
+4/01/19 12:00pm -  1:00pm 1.0 hr   Jarod // Set up an online SQL Server
+4/01/19  4:00pm -  5:30pm 1.5 hrs  Jarod & Kishan // Made python code that can input data into the database as well as PHP code
+4/09/19  6:00pm -  8:00pm 2.0 hrs  Jarod & Kishan // Worked on understanding the PHP and python code and attempted to embed it into a website
+4/10/19 10:00pm - 12:00am 2.0 hrs  Kishan // Learned Flask
+4/11/19  1:00pm -  2:00pm 1.0 hr   Jarod & Kishan // Further learning of Flask
+4/15/19 10:00am - 11:00am 1.0 hr   Josh //Formatting upper body page
+4/15/19  9:00am - 11:00am 2.0 hrs  Ravi // Fixed some of the links and layout of the login Page.
+4/15/19  3:00pm -  5:00pm 2.0 hrs  Kishan // Starting Flask implementation
+4/20/19 12:00pm -  2:00pm 2.0 hrs  Josh//Formatting main page and upper body page
+4/21/19  8:00pm - 12:00am 4.0 hrs  Kishan // Nearing Completition of Flask Login Page
+4/22/19  9:30am - 11:00am 1.5 hrs  Josh // Creating and linking Cardio page and formatting lower body images
+4/22/19  8:00am - 11:00am 3.0 hrs  Ravi // Made the Sign up page
+4/22/19  2:30pm -  5:30pm 3.0 hrs  Kishan and Jarod //Fixed the Flask Bug in the login page
+4/22/19 10:00pm -  1:00am 3.0 hrs  Kishan Sent data to database from login page
+4/23/19 11:00pm -  2:30am 3.5 hrs  Kishan // Made Login and SignUp page errors
+4/24/19 12:00pm -  2:30pm 2.5 hrs  Jarod & Josh // Hosted website using python files on Heroku (Jarod) and finished up the excercise pages (Josh)
+4/24/19  4:00pm -  7:00pm 3.0 hrs  Ravi // Modified the python code to display users name after logging in and cleaned up the appearance of the website.
+4/24/19  8:00pm - 12:00am 4.0 hrs  all team members // finishing touches
+
