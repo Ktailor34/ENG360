@@ -1,0 +1,21 @@
+.image-box {
+  /* Here's the trick */
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), var(--image-url) center center;
+
+  /* Here's the same styles we applied to our content-div earlier */
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* For demo only */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 40px;
+}

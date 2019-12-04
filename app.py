@@ -54,6 +54,11 @@ def login():
 def index():
     return render_template('index.html', error = LogIn)
 
+#landing page route
+@app.route('/LandingPage.html')
+def landing():
+    return render_template('LandingPage.html', error = LogIn)
+
 #upperbody route
 @app.route('/UpperBody_Main.html')
 def upper():
