@@ -1,4 +1,125 @@
+<head>
+<style>
+  body, html {
+    margin:0;
+    padding:0;
+    font-family: Tahoma, Geneva, sans-serif;
+  }
+  form {
+    width: 240px;
+    text-align: center;
+  }
+
+  /* Logo at the top of the box */
+  .logo {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size:300%;
+    font-weight:100;
+    border: 2px solid white;
+    padding: 10px;
+    color:white;
+    margin:auto;
+    margin-top: -280px;
+    position:absolute;
+    z-index: 6;
+  }
+
+  /* Email input box */
+  input[type=text] {
+    width: 300px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff; 
+    position: absolute;	
+    margin:auto;
+    margin-top: 60px;
+    z-index:5;
+  }
+
+  /* Sign up now button */
+  input[type=submit] {
+    z-index: 4;
+    margin: auto;
+    margin-top: 200px;
+    position: absolute;
+    border: none;
+    width: 225px;
+    background: red;
+    color: white;
+    font-size: 16px;
+    line-height: 35px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    color: black;
+    background-color: white;
+  }
+
+  /* cancel at anytime text under button */
+  .cancel-text{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size:90%;
+    font-weight:lighter;
+    color:white;
+    margin:auto;
+    margin-top:250px;
+    position:absolute;
+    z-index: 3;
+  }
+
+  /*Join now text under logo */
+  .join-text{ 
+    width: 350px;
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size:200%;
+    font-weight: thin;
+    color:white;
+    margin:auto;
+    margin-top:-100px;
+    position:absolute;
+    z-index: 2;
+  }
+
+  /* Box that everything is in */
+  .box {
+    border-radius: 15px; 
+    height:700px;
+    width:500px;
+    margin:auto;
+    background-color:black;
+    opacity: 0.8;
+    position: absolute;
+    z-index:1;
+  }
+
+  /* Background image */
+  .image-box {
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), var(--image-url) center center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
+</head>
+<body>
 <div class="image-box" style="--image-url: url(../static/landing.jpeg)">
-	<link href="../static/LandingPage.css" rel="stylesheet" type="text/css" />
-	<h1>Buy our product</h1>
+  <div class="logo"> <b>FYF</b> FIT YOUR FIT</div>
+  <input type="text" name="username" placeholder="Your email address" id=username/> 
+  <div class="cancel-text">Cancel subscription anytime</div>
+  <input type="submit" value="Sign Up Now">
+  <div class="join-text">Join us <b><blink><font color="red">NOW</font></blink></b> for custom daily workouts and access to our personal trainers!</div>
+  <div class="box"></div>
 </div>
+</body>
