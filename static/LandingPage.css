@@ -1,3 +1,8 @@
+.box {
+  height:50px;
+  width:100px;
+  background-color:red;
+}
 .image-box {
   /* Here's the trick */
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), var(--image-url) center center;
@@ -11,6 +16,7 @@
 }
 
 /* For demo only */
+/*
 html, body {
   margin: 0;
   padding: 0;
@@ -19,3 +25,4 @@ html, body {
 h1 {
   font-size: 40px;
 }
+*/
